@@ -1,0 +1,10 @@
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\database.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\database.obj
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\GameServer.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\GameServer.obj
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\monster_ai.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\monster_ai.obj
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\monster_spawner.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\monster_spawner.obj
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\npc_spawner.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\npc_spawner.obj
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\packet_utils.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\packet_utils.obj
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\potion_spawner.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\potion_spawner.obj
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\server_network.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\server_network.obj
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\server_types.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\server_types.obj
+C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\server_world.cpp;C:\Users\0412j\OneDrive\바탕 화면\4-1\GameServer\TermProject\Server\Server\x64\Release\server_world.obj

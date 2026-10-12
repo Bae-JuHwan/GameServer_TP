@@ -1,0 +1,25 @@
+# Visual Studio 임시 파일
+.vs/
+**/.vs/
+
+# 빌드 결과물
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# 컴파일 중간 파일
+*.obj
+*.pch
+*.ipch
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+
+# 사용자별 설정 파일
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
